@@ -1,0 +1,2 @@
+# Seul le tracé des figures (scripts/plot_results.py) a une dépendance externe.
+matplotlib>=3.5

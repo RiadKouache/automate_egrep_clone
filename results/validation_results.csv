@@ -1,0 +1,23 @@
+File,Pattern,Grep_lines,Clone_lines,Result
+gutenberg_56667.txt,end,397,397,OK
+gutenberg_56667.txt,the,7952,7952,OK
+gutenberg_56667.txt,Sargon,29,29,OK
+gutenberg_56667.txt,Babylon,1178,1178,OK
+gutenberg_56667.txt,zzzz,0,0,OK
+gutenberg_56667.txt,a.b,249,249,OK
+gutenberg_56667.txt,(the|and),8874,8874,OK
+gutenberg_56667.txt,a.*e,10474,10474,OK
+gutenberg_56667.txt,S(a|g|r)*on,30,30,OK
+gutenberg_56667.txt,(a|b)*c,8535,8535,OK
+gutenberg_56667.txt,((ab)*|c)d,9469,9469,OK
+gutenberg_56667.txt,B(a|e)*by,1178,1178,OK
+gutenberg_56667.txt,.,11593,11593,OK
+gutenberg_56667.txt,a*,13309,13309,OK
+gutenberg_56667.txt,x(y|z)*,1043,1043,OK
+test_performance.txt,S(a|g|r)*on,49,49,OK
+test_performance.txt,Simon,11,11,OK
+test_performance.txt,Sargom,15,15,OK
+test_performance.txt,Ligne 0,1,1,OK
+test_performance.txt,a.b,0,0,OK
+test_performance.txt,ab*,500000,500000,OK
+test_performance.txt,a|b,500000,500000,OK

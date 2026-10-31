@@ -1,0 +1,10 @@
+Pattern,NFA_states,DFA_states,Min_DFA_states
+end,6,4,4
+the,6,4,4
+Sargon,12,7,7
+Babylon,14,8,8
+a.b,6,6,6
+(the|and),14,7,6
+a.*e,8,5,3
+S(a|g|r)*on,18,7,4
+B(a|e)*by,14,6,4

@@ -1,0 +1,26 @@
+Fichier : gutenberg_56667.txt, 10 répétitions
+
+end          KMP      397 lignes  0.0693 s ± 0.0022
+end          AFD      397 lignes  0.0442 s ± 0.0011
+end          grep     397 lignes  0.0239 s ± 0.0010
+the          KMP     7952 lignes  0.0433 s ± 0.0015
+the          AFD     7952 lignes  0.0302 s ± 0.0004
+the          grep    7952 lignes  0.0251 s ± 0.0012
+Sargon       KMP       29 lignes  0.2912 s ± 0.1153
+Sargon       AFD       29 lignes  0.2306 s ± 0.0257
+Sargon       grep      29 lignes  0.0510 s ± 0.0047
+Babylon      KMP     1178 lignes  0.3445 s ± 0.0198
+Babylon      AFD     1178 lignes  0.2027 s ± 0.0232
+Babylon      grep    1178 lignes  0.0445 s ± 0.0021
+a.b          AFD      249 lignes  0.2176 s ± 0.0198
+a.b          grep     249 lignes  0.0452 s ± 0.0061
+(the|and)    AFD     8874 lignes  0.1383 s ± 0.0091
+(the|and)    grep    8874 lignes  0.0452 s ± 0.0054
+a.*e         AFD    10474 lignes  0.1094 s ± 0.0125
+a.*e         grep   10474 lignes  0.0434 s ± 0.0025
+S(a|g|r)*on  AFD       30 lignes  0.2192 s ± 0.0172
+S(a|g|r)*on  grep      30 lignes  0.0511 s ± 0.0071
+B(a|e)*by    AFD     1178 lignes  0.2150 s ± 0.0230
+B(a|e)*by    grep    1178 lignes  0.0447 s ± 0.0027
+
+Résultats enregistrés dans C:\Users\ammar\Desktop\yaakoub\automate_egrep_clone\results
